@@ -1,5 +1,5 @@
 {
-    "image_path": "",
+    "image_path": "C:\Users\shimi\Image_Dataset\*.jpg",
     "generator_path": "",
     "save_path": "",
     "image_size": 256
